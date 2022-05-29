@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharp_GitHub_Tests", "RestSharp_GitHub_Demo\RestSharp_GitHub_Tests.csproj", "{F25E5A62-6B5C-4766-AA2B-214D44C130FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub_Issues_Tests", "GitHub_Issues_Tests\GitHub_Issues_Tests.csproj", "{3BA2BE02-D2CB-4A5A-86A2-346DD88FA8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25E5A62-6B5C-4766-AA2B-214D44C130FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25E5A62-6B5C-4766-AA2B-214D44C130FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25E5A62-6B5C-4766-AA2B-214D44C130FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25E5A62-6B5C-4766-AA2B-214D44C130FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA2BE02-D2CB-4A5A-86A2-346DD88FA8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA2BE02-D2CB-4A5A-86A2-346DD88FA8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA2BE02-D2CB-4A5A-86A2-346DD88FA8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA2BE02-D2CB-4A5A-86A2-346DD88FA8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50819A6-B26F-45D7-95E1-A65E71107B95}
+	EndGlobalSection
+EndGlobal
